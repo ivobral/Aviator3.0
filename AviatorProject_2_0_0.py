@@ -16,7 +16,7 @@ import os
 from Settings import SetUp
 
 # path do geckodriver-a
-s = Service(executable_path="E:\\Ivo faks\\geckodriver-v0.30.0-win64\\geckodriver.exe")
+s = Service(executable_path="C:\\Users\\petar\\Documents\\GeckoDriver\\geckodriver.exe")
 
 print("Before starting Firefox!!!")
 driver = webdriver.Firefox(service= s)                                  #otvara Firefox
@@ -98,8 +98,8 @@ while(1):
 
             # first round check
             if firstRoundCheck == 0:
+                firstRoundCheck = 1
                 if gameMode ==1:
-                    firstRoundCheck = 1
                     # postavljanje prvog bet i namjestanje buttona
                     # unesi pocetni bet
                     starter = driver.find_element(By.XPATH, player.getInputBetPath())

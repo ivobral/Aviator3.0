@@ -2446,3 +2446,20 @@ JavaScript warning: https://casino.supersport.hr/bundles/main-scripts?v=xo3sUl1P
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://casino.supersport.hr"
 1647983529482	Marionette	INFO	Stopped listening on port 64252
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647985923813	geckodriver	INFO	Listening on 127.0.0.1:57024
+1647985926974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57025" "-no-remote" "-profile" "C:\\Users\\petar\\AppData\\Local\\Temp\\rust_mozprofilePq5TKW"
+1647985927672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\petar\\AppData\\Local\\Temp\\rust_mozprofilePq5TKW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57025/devtools/browser/becb668d-7752-4362-bf66-3c588943c222
+1647985931486	Marionette	INFO	Listening on port 57030
+1647985931603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://casino.supersport.hr/bundles/main-scripts?v=xo3sUl1PC-HhkHYodmFyo0cNOxoBR0a-iXlyLZdDQTQ1, line 7097: unreachable code after return statement
+JavaScript warning: https://casino.supersport.hr/bundles/main-scripts?v=xo3sUl1PC-HhkHYodmFyo0cNOxoBR0a-iXlyLZdDQTQ1, line 7122: unreachable code after return statement
+JavaScript warning: https://casino.supersport.hr/bundles/main-scripts?v=xo3sUl1PC-HhkHYodmFyo0cNOxoBR0a-iXlyLZdDQTQ1, line 7137: unreachable code after return statement
+1647985936403	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://casino.supersport.hr/ line 269 > injectedScript, line 1: ReferenceError: optimoveSDK is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://casino.supersport.hr"

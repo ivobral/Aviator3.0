@@ -2000,3 +2000,17 @@ Last bet: 0
 Next bet: 0
 totalBet: 0.5
 
+Number of session: 12
+
+1. result:1.47
+Balance: 130.09
+Last bet: 0
+Next bet: 0
+totalBet: 0.5
+
+2. result:3.59
+Balance: 130.09
+Last bet: 0
+Next bet: 0
+totalBet: 0.5
+
