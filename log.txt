@@ -1,0 +1,2002 @@
+Number of session: 1
+
+Number of session: 2
+
+Number of session: 3
+
+1. result:8.93
+Balance: 200.0
+Last bet: 0
+Next bet: 0
+totalBet: 0.5
+
+2. result:1.33
+Balance: 200.1
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+3. result:12.43
+Balance: 200.2
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+4. result:1.08
+Balance: 199.7
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+5. result:1.70
+Balance: 200.2
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+6. result:24.41
+Balance: 200.29999999999998
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+7. result:2.82
+Balance: 200.39999999999998
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+8. result:5.22
+Balance: 200.49999999999997
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+9. result:8.17
+Balance: 200.59999999999997
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+10. result:1.04
+Balance: 200.09999999999997
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+11. result:1.20
+Balance: 199.09999999999997
+Last bet: 1.0
+Next bet: 3.0
+totalBet: 4.5
+
+12. result:1.86
+Balance: 200.59999999999997
+Last bet: 3.0
+Next bet: 0.5
+totalBet: 0.5
+
+13. result:12.53
+Balance: 200.69999999999996
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+14. result:5.46
+Balance: 200.79999999999995
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+15. result:1.44
+Balance: 200.89999999999995
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+16. result:1.08
+Balance: 200.39999999999995
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+17. result:1.22
+Balance: 199.39999999999995
+Last bet: 1.0
+Next bet: 3.0
+totalBet: 4.5
+
+18. result:3.43
+Balance: 200.89999999999995
+Last bet: 3.0
+Next bet: 0.5
+totalBet: 0.5
+
+19. result:22.08
+Balance: 200.99999999999994
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+20. result:1.00
+Balance: 200.49999999999994
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+21. result:1.00
+Balance: 199.49999999999994
+Last bet: 1.0
+Next bet: 3.0
+totalBet: 4.5
+
+22. result:1.12
+Balance: 196.49999999999994
+Last bet: 3.0
+Next bet: 9.0
+totalBet: 13.5
+
+23. result:1.01
+Balance: 187.49999999999994
+Last bet: 9.0
+Next bet: 27.0
+totalBet: 40.5
+
+24. result:1.00
+Balance: 160.49999999999994
+Last bet: 27.0
+Next bet: 81.0
+totalBet: 121.5
+
+25. result:1.32
+Balance: 79.49999999999994
+Last bet: 81.0
+Next bet: 243.0
+totalBet: 364.5
+
+26. result:4.14
+Balance: 200.99999999999994
+Last bet: 243.0
+Next bet: 0.5
+totalBet: 0.5
+
+27. result:1.48
+Balance: 201.09999999999994
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+28. result:1.19
+Balance: 200.59999999999994
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+29. result:1.00
+Balance: 199.59999999999994
+Last bet: 1.0
+Next bet: 3.0
+totalBet: 4.5
+
+30. result:1.37
+Balance: 196.59999999999994
+Last bet: 3.0
+Next bet: 9.0
+totalBet: 13.5
+
+31. result:1.77
+Balance: 201.09999999999994
+Last bet: 9.0
+Next bet: 0.5
+totalBet: 0.5
+
+32. result:2.64
+Balance: 201.19999999999993
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+33. result:1.60
+Balance: 201.29999999999993
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+34. result:1.26
+Balance: 201.39999999999992
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+35. result:1.00
+Balance: 200.89999999999992
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+36. result:5.66
+Balance: 201.39999999999992
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+37. result:2.18
+Balance: 201.49999999999991
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+38. result:4.18
+Balance: 201.5999999999999
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+39. result:5.68
+Balance: 201.6999999999999
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+40. result:3.86
+Balance: 201.7999999999999
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+41. result:1.07
+Balance: 201.2999999999999
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+42. result:2.32
+Balance: 201.7999999999999
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+43. result:2.31
+Balance: 201.8999999999999
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+44. result:1.02
+Balance: 201.3999999999999
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+45. result:5.91
+Balance: 201.8999999999999
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+46. result:1.53
+Balance: 201.9999999999999
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+47. result:1.32
+Balance: 202.09999999999988
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+48. result:1.18
+Balance: 201.59999999999988
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+49. result:5.34
+Balance: 202.09999999999988
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+50. result:1.10
+Balance: 201.59999999999988
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+51. result:7.61
+Balance: 202.09999999999988
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+52. result:1.56
+Balance: 202.19999999999987
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+53. result:4.15
+Balance: 202.29999999999987
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+54. result:2.14
+Balance: 202.39999999999986
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+55. result:2.46
+Balance: 202.49999999999986
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+56. result:1.00
+Balance: 201.99999999999986
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+57. result:2.19
+Balance: 202.49999999999986
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+58. result:1.56
+Balance: 202.59999999999985
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+59. result:1.30
+Balance: 202.69999999999985
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+60. result:1.46
+Balance: 202.79999999999984
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+61. result:29.46
+Balance: 202.89999999999984
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+62. result:1.15
+Balance: 202.39999999999984
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+63. result:2.15
+Balance: 202.89999999999984
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+64. result:1.16
+Balance: 202.39999999999984
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+65. result:2.25
+Balance: 202.89999999999984
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+66. result:1.62
+Balance: 202.99999999999983
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+67. result:2.01
+Balance: 203.09999999999982
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+68. result:2.02
+Balance: 203.19999999999982
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+69. result:1.31
+Balance: 203.2999999999998
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+70. result:1.41
+Balance: 203.3999999999998
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+71. result:4.64
+Balance: 203.4999999999998
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+72. result:2.09
+Balance: 203.5999999999998
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+73. result:2.27
+Balance: 203.6999999999998
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+74. result:12.30
+Balance: 203.79999999999978
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+75. result:9.29
+Balance: 203.89999999999978
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+76. result:3.08
+Balance: 203.99999999999977
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+77. result:10.40
+Balance: 204.09999999999977
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+78. result:1.57
+Balance: 204.19999999999976
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+79. result:3.17
+Balance: 204.29999999999976
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+80. result:1.40
+Balance: 204.39999999999975
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+81. result:7.63
+Balance: 204.49999999999974
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+82. result:1.14
+Balance: 203.99999999999974
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+83. result:1.61
+Balance: 204.49999999999974
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+84. result:1.07
+Balance: 203.99999999999974
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+85. result:1.07
+Balance: 202.99999999999974
+Last bet: 1.0
+Next bet: 3.0
+totalBet: 4.5
+
+86. result:6.42
+Balance: 204.49999999999974
+Last bet: 3.0
+Next bet: 0.5
+totalBet: 0.5
+
+87. result:1.17
+Balance: 203.99999999999974
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+88. result:1.09
+Balance: 202.99999999999974
+Last bet: 1.0
+Next bet: 3.0
+totalBet: 4.5
+
+89. result:1.27
+Balance: 199.99999999999974
+Last bet: 3.0
+Next bet: 9.0
+totalBet: 13.5
+
+90. result:1.08
+Balance: 190.99999999999974
+Last bet: 9.0
+Next bet: 27.0
+totalBet: 40.5
+
+91. result:2.53
+Balance: 204.49999999999974
+Last bet: 27.0
+Next bet: 0.5
+totalBet: 0.5
+
+92. result:1.25
+Balance: 204.59999999999974
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+93. result:2.80
+Balance: 204.69999999999973
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+94. result:1.15
+Balance: 204.19999999999973
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+95. result:1.66
+Balance: 204.69999999999973
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+96. result:1.21
+Balance: 204.79999999999973
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+97. result:1.11
+Balance: 204.29999999999973
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+98. result:1.00
+Balance: 203.29999999999973
+Last bet: 1.0
+Next bet: 3.0
+totalBet: 4.5
+
+99. result:1.61
+Balance: 204.79999999999973
+Last bet: 3.0
+Next bet: 0.5
+totalBet: 0.5
+
+100. result:1.18
+Balance: 204.29999999999973
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+101. result:1.06
+Balance: 203.29999999999973
+Last bet: 1.0
+Next bet: 3.0
+totalBet: 4.5
+
+102. result:1.18
+Balance: 200.29999999999973
+Last bet: 3.0
+Next bet: 9.0
+totalBet: 13.5
+
+103. result:2.46
+Balance: 204.79999999999973
+Last bet: 9.0
+Next bet: 0.5
+totalBet: 0.5
+
+104. result:98.70
+Balance: 204.89999999999972
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+105. result:1.20
+Balance: 204.39999999999972
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+106. result:1.09
+Balance: 203.39999999999972
+Last bet: 1.0
+Next bet: 3.0
+totalBet: 4.5
+
+107. result:1.56
+Balance: 204.89999999999972
+Last bet: 3.0
+Next bet: 0.5
+totalBet: 0.5
+
+108. result:1.41
+Balance: 204.99999999999972
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+109. result:1.66
+Balance: 205.0999999999997
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+110. result:1.00
+Balance: 204.5999999999997
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+111. result:35.57
+Balance: 205.0999999999997
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+112. result:1.58
+Balance: 205.1999999999997
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+113. result:1.23
+Balance: 205.2999999999997
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+114. result:3.75
+Balance: 205.3999999999997
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+115. result:6.22
+Balance: 205.4999999999997
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+116. result:24.34
+Balance: 205.59999999999968
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+117. result:2.84
+Balance: 205.69999999999968
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+118. result:2.30
+Balance: 205.79999999999967
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+Number of session: 4
+
+1. result:73919.11
+Balance: 100.0
+Last bet: 0
+Next bet: 0
+totalBet: 1.0
+
+2. result:2.27
+Balance: 100.2
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+3. result:313.04
+Balance: 100.4
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+4. result:2.41
+Balance: 100.60000000000001
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+5. result:1.49
+Balance: 100.80000000000001
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+6. result:4.19
+Balance: 101.00000000000001
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+7. result:1.48
+Balance: 101.20000000000002
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+8. result:4.08
+Balance: 101.40000000000002
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+9. result:1.52
+Balance: 101.60000000000002
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+10. result:1.09
+Balance: 100.60000000000002
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+11. result:74.68
+Balance: 101.60000000000002
+Last bet: 2.0
+Next bet: 1.0
+totalBet: 1.0
+
+12. result:1.15
+Balance: 100.60000000000002
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+13. result:1.26
+Balance: 98.60000000000002
+Last bet: 2.0
+Next bet: 6.0
+totalBet: 9.0
+
+14. result:1.62
+Balance: 101.60000000000002
+Last bet: 6.0
+Next bet: 1.0
+totalBet: 1.0
+
+15. result:7.43
+Balance: 101.80000000000003
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+16. result:1.69
+Balance: 102.00000000000003
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+17. result:1.08
+Balance: 101.00000000000003
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+18. result:1.73
+Balance: 102.00000000000003
+Last bet: 2.0
+Next bet: 1.0
+totalBet: 1.0
+
+19. result:1.00
+Balance: 101.00000000000003
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+20. result:1.13
+Balance: 99.00000000000003
+Last bet: 2.0
+Next bet: 6.0
+totalBet: 9.0
+
+21. result:3.89
+Balance: 102.00000000000003
+Last bet: 6.0
+Next bet: 1.0
+totalBet: 1.0
+
+22. result:1.02
+Balance: 101.00000000000003
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+23. result:1.03
+Balance: 99.00000000000003
+Last bet: 2.0
+Next bet: 6.0
+totalBet: 9.0
+
+24. result:3.08
+Balance: 102.00000000000003
+Last bet: 6.0
+Next bet: 1.0
+totalBet: 1.0
+
+25. result:1.87
+Balance: 102.20000000000003
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+26. result:1.55
+Balance: 102.40000000000003
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+27. result:1.29
+Balance: 102.60000000000004
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+28. result:20.24
+Balance: 102.80000000000004
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+29. result:1.75
+Balance: 103.00000000000004
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+30. result:1.47
+Balance: 103.20000000000005
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+31. result:1.71
+Balance: 103.40000000000005
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+32. result:1.83
+Balance: 103.60000000000005
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+33. result:2.66
+Balance: 103.80000000000005
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+34. result:1.26
+Balance: 104.00000000000006
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+35. result:2.09
+Balance: 104.20000000000006
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+36. result:80.28
+Balance: 104.40000000000006
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+37. result:1.92
+Balance: 104.60000000000007
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+38. result:2.35
+Balance: 104.80000000000007
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+39. result:1.69
+Balance: 105.00000000000007
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+40. result:5.58
+Balance: 105.20000000000007
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+41. result:7.19
+Balance: 105.40000000000008
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+42. result:1.07
+Balance: 104.40000000000008
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+43. result:1.99
+Balance: 105.40000000000008
+Last bet: 2.0
+Next bet: 1.0
+totalBet: 1.0
+
+44. result:1.61
+Balance: 105.60000000000008
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+45. result:5.73
+Balance: 105.80000000000008
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+46. result:1.44
+Balance: 106.00000000000009
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+47. result:3.02
+Balance: 106.20000000000009
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+48. result:7.67
+Balance: 106.40000000000009
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+49. result:3.41
+Balance: 106.6000000000001
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+50. result:1.71
+Balance: 106.8000000000001
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+51. result:1.58
+Balance: 107.0000000000001
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+52. result:1.37
+Balance: 107.2000000000001
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+53. result:6.27
+Balance: 107.4000000000001
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+54. result:6.57
+Balance: 107.60000000000011
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+55. result:1.35
+Balance: 107.80000000000011
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+56. result:9.67
+Balance: 108.00000000000011
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+57. result:1.14
+Balance: 107.00000000000011
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+58. result:1.02
+Balance: 105.00000000000011
+Last bet: 2.0
+Next bet: 6.0
+totalBet: 9.0
+
+59. result:2.90
+Balance: 108.00000000000011
+Last bet: 6.0
+Next bet: 1.0
+totalBet: 1.0
+
+60. result:1.79
+Balance: 108.20000000000012
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+61. result:1.06
+Balance: 107.20000000000012
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+62. result:1.43
+Balance: 105.20000000000012
+Last bet: 2.0
+Next bet: 6.0
+totalBet: 9.0
+
+63. result:32.92
+Balance: 108.20000000000012
+Last bet: 6.0
+Next bet: 1.0
+totalBet: 1.0
+
+64. result:2.29
+Balance: 108.40000000000012
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+65. result:7.25
+Balance: 108.60000000000012
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+66. result:1.60
+Balance: 108.80000000000013
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+67. result:18.92
+Balance: 109.00000000000013
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+68. result:1.42
+Balance: 109.20000000000013
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+69. result:1.67
+Balance: 109.40000000000013
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+70. result:1.69
+Balance: 109.60000000000014
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+71. result:2.08
+Balance: 109.80000000000014
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+72. result:7.25
+Balance: 110.00000000000014
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+73. result:5.70
+Balance: 110.20000000000014
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+74. result:2.65
+Balance: 110.40000000000015
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+75. result:1.36
+Balance: 110.60000000000015
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+76. result:3.22
+Balance: 110.80000000000015
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+77. result:1.26
+Balance: 111.00000000000016
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+78. result:3.60
+Balance: 111.20000000000016
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+79. result:13.06
+Balance: 111.40000000000016
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+80. result:1.75
+Balance: 111.60000000000016
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+81. result:3.18
+Balance: 111.80000000000017
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+82. result:1.03
+Balance: 110.80000000000017
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+83. result:1.82
+Balance: 111.80000000000017
+Last bet: 2.0
+Next bet: 1.0
+totalBet: 1.0
+
+84. result:2.90
+Balance: 112.00000000000017
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+85. result:32.46
+Balance: 112.20000000000017
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+86. result:1.04
+Balance: 111.20000000000017
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+87. result:12.35
+Balance: 112.20000000000017
+Last bet: 2.0
+Next bet: 1.0
+totalBet: 1.0
+
+88. result:1.15
+Balance: 111.20000000000017
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+89. result:12.92
+Balance: 112.20000000000017
+Last bet: 2.0
+Next bet: 1.0
+totalBet: 1.0
+
+90. result:1.01
+Balance: 111.20000000000017
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+91. result:1.51
+Balance: 112.20000000000017
+Last bet: 2.0
+Next bet: 1.0
+totalBet: 1.0
+
+92. result:5.88
+Balance: 112.40000000000018
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+93. result:1.47
+Balance: 112.60000000000018
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+94. result:1.38
+Balance: 112.80000000000018
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+95. result:2.23
+Balance: 113.00000000000018
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+96. result:1.33
+Balance: 113.20000000000019
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+97. result:1.69
+Balance: 113.40000000000019
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+98. result:1.52
+Balance: 113.6000000000002
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+99. result:1.85
+Balance: 113.8000000000002
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+100. result:1.80
+Balance: 114.0000000000002
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+101. result:12.29
+Balance: 114.2000000000002
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+102. result:6.10
+Balance: 114.4000000000002
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+103. result:22.12
+Balance: 114.60000000000021
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+104. result:1.00
+Balance: 113.60000000000021
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+105. result:8.51
+Balance: 114.60000000000021
+Last bet: 2.0
+Next bet: 1.0
+totalBet: 1.0
+
+106. result:1.83
+Balance: 114.80000000000021
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+107. result:278.05
+Balance: 115.00000000000021
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+108. result:1.17
+Balance: 114.00000000000021
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+109. result:1.11
+Balance: 112.00000000000021
+Last bet: 2.0
+Next bet: 6.0
+totalBet: 9.0
+
+110. result:2.58
+Balance: 115.00000000000021
+Last bet: 6.0
+Next bet: 1.0
+totalBet: 1.0
+
+111. result:2.41
+Balance: 115.20000000000022
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+112. result:4.63
+Balance: 115.40000000000022
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+113. result:1.00
+Balance: 114.40000000000022
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+114. result:1.05
+Balance: 112.40000000000022
+Last bet: 2.0
+Next bet: 6.0
+totalBet: 9.0
+
+115. result:1.59
+Balance: 115.40000000000022
+Last bet: 6.0
+Next bet: 1.0
+totalBet: 1.0
+
+116. result:1.78
+Balance: 115.60000000000022
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+117. result:1.09
+Balance: 114.60000000000022
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+118. result:7.04
+Balance: 115.60000000000022
+Last bet: 2.0
+Next bet: 1.0
+totalBet: 1.0
+
+119. result:4.24
+Balance: 115.80000000000022
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+120. result:5.63
+Balance: 116.00000000000023
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+121. result:1.26
+Balance: 116.20000000000023
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+122. result:1.68
+Balance: 116.40000000000023
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+123. result:3.83
+Balance: 116.60000000000024
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+124. result:1.24
+Balance: 116.80000000000024
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+125. result:3.13
+Balance: 117.00000000000024
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+126. result:1.69
+Balance: 117.20000000000024
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+127. result:2.32
+Balance: 117.40000000000025
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+128. result:2.45
+Balance: 117.60000000000025
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+129. result:1.73
+Balance: 117.80000000000025
+Last bet: 1.0
+Next bet: 1.0
+totalBet: 1.0
+
+130. result:1.03
+Balance: 116.80000000000025
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+131. result:6.12
+Balance: 117.80000000000025
+Last bet: 2.0
+Next bet: 1.0
+totalBet: 1.0
+
+132. result:1.18
+Balance: 116.80000000000025
+Last bet: 1.0
+Next bet: 2.0
+totalBet: 3.0
+
+133. result:1.13
+Balance: 114.80000000000025
+Last bet: 2.0
+Next bet: 6.0
+totalBet: 9.0
+
+134. result:1.00
+Balance: 108.80000000000025
+Last bet: 6.0
+Next bet: 18.0
+totalBet: 27.0
+
+135. result:1.00
+Balance: 90.80000000000025
+Last bet: 18.0
+Next bet: 54.0
+totalBet: 81.0
+
+136. result:1.46
+Balance: 36.80000000000025
+Last bet: 54.0
+Next bet: 162.0
+totalBet: 243.0
+
+137. result:1.02
+Balance: -125.19999999999975
+Last bet: 162.0
+Next bet: 486.0
+totalBet: 729.0
+
+138. result:5.69
+Balance: 117.8000000000003
+Last bet: 486.0
+Next bet: 1.0
+totalBet: 1.0
+
+Number of session: 5
+
+Number of session: 6
+
+1. result:2.50
+Balance: 122.09
+Last bet: 0
+Next bet: 0
+totalBet: 0.5
+
+2. result:1.63
+Balance: 122.19
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+3. result:1.04
+Balance: 121.69
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+4. result:1.38
+Balance: 120.69
+Last bet: 1.0
+Next bet: 3.0
+totalBet: 4.5
+
+5. result:2.10
+Balance: 122.19
+Last bet: 3.0
+Next bet: 0.5
+totalBet: 0.5
+
+6. result:2.02
+Balance: 122.28999999999999
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+7. result:10.49
+Balance: 122.38999999999999
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+8. result:2.41
+Balance: 122.48999999999998
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+9. result:21.09
+Balance: 122.58999999999997
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+10. result:6.05
+Balance: 122.68999999999997
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+11. result:5.32
+Balance: 122.78999999999996
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+12. result:11.09
+Balance: 122.88999999999996
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+13. result:1.46
+Balance: 122.98999999999995
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+14. result:1.65
+Balance: 123.08999999999995
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+15. result:9.81
+Balance: 123.18999999999994
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+16. result:1.17
+Balance: 122.68999999999994
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+17. result:1.76
+Balance: 123.18999999999994
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+18. result:2.23
+Balance: 123.28999999999994
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+19. result:1.34
+Balance: 123.38999999999993
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+20. result:1.10
+Balance: 122.88999999999993
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+21. result:1.18
+Balance: 121.88999999999993
+Last bet: 1.0
+Next bet: 3.0
+totalBet: 4.5
+
+22. result:1.13
+Balance: 118.88999999999993
+Last bet: 3.0
+Next bet: 9.0
+totalBet: 13.5
+
+23. result:1.23
+Balance: 109.88999999999993
+Last bet: 9.0
+Next bet: 27.0
+totalBet: 40.5
+
+24. result:2.04
+Balance: 123.38999999999993
+Last bet: 27.0
+Next bet: 0.5
+totalBet: 0.5
+
+25. result:1.07
+Balance: 122.88999999999993
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+26. result:2.55
+Balance: 123.38999999999993
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+27. result:1.47
+Balance: 123.48999999999992
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+28. result:3.95
+Balance: 123.58999999999992
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+29. result:1.72
+Balance: 123.68999999999991
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+30. result:1.12
+Balance: 123.18999999999991
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+31. result:1.37
+Balance: 122.18999999999991
+Last bet: 1.0
+Next bet: 3.0
+totalBet: 4.5
+
+32. result:1.08
+Balance: 119.18999999999991
+Last bet: 3.0
+Next bet: 9.0
+totalBet: 13.5
+
+33. result:1.10
+Balance: 110.18999999999991
+Last bet: 9.0
+Next bet: 27.0
+totalBet: 40.5
+
+34. result:1.00
+Balance: 83.18999999999991
+Last bet: 27.0
+Next bet: 81.0
+totalBet: 121.5
+
+35. result:3.98
+Balance: 123.68999999999991
+Last bet: 81.0
+Next bet: 0.5
+totalBet: 0.5
+
+36. result:1.20
+Balance: 123.18999999999991
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+37. result:3.07
+Balance: 123.68999999999991
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+38. result:2.37
+Balance: 123.7899999999999
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+39. result:7.48
+Balance: 123.8899999999999
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+40. result:1.26
+Balance: 123.9899999999999
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+41. result:3.12
+Balance: 124.08999999999989
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+42. result:1.85
+Balance: 124.18999999999988
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+43. result:1.55
+Balance: 124.28999999999988
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+44. result:3.82
+Balance: 124.38999999999987
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+45. result:5.56
+Balance: 124.48999999999987
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+46. result:18.56
+Balance: 124.58999999999986
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+47. result:9.54
+Balance: 124.68999999999986
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+48. result:27.97
+Balance: 124.78999999999985
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+49. result:3.28
+Balance: 124.88999999999984
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+50. result:7.08
+Balance: 124.98999999999984
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+51. result:1.00
+Balance: 124.48999999999984
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+52. result:1.72
+Balance: 124.98999999999984
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+53. result:4.01
+Balance: 125.08999999999983
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+54. result:1.14
+Balance: 124.58999999999983
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+55. result:3.71
+Balance: 125.08999999999983
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+56. result:2.10
+Balance: 125.18999999999983
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+57. result:1.42
+Balance: 125.28999999999982
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+58. result:2.50
+Balance: 125.38999999999982
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+59. result:1.38
+Balance: 125.48999999999981
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+60. result:2.48
+Balance: 125.5899999999998
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+61. result:1.00
+Balance: 125.0899999999998
+Last bet: 0.5
+Next bet: 1.0
+totalBet: 1.5
+
+62. result:1.63
+Balance: 125.5899999999998
+Last bet: 1.0
+Next bet: 0.5
+totalBet: 0.5
+
+63. result:3.24
+Balance: 125.6899999999998
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+64. result:1.22
+Balance: 125.7899999999998
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+65. result:1.80
+Balance: 125.88999999999979
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+66. result:1.49
+Balance: 125.98999999999978
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+Number of session: 7
+
+1. result:1.49
+Balance: 122.09
+Last bet: 0
+Next bet: 0
+totalBet: 0.5
+
+Number of session: 8
+
+1. result:5.41
+Balance: 122.09
+Last bet: 0
+Next bet: 0
+totalBet: 0.5
+
+Number of session: 9
+
+1. result:6.02
+Balance: 122.09
+Last bet: 0
+Next bet: 0
+totalBet: 0.5
+
+2. result:17.53
+Balance: 122.19
+Last bet: 0.5
+Next bet: 0.5
+totalBet: 0.5
+
+Number of session: 10
+
+1. result:1.15
+Balance: 122.09
+Last bet: 0
+Next bet: 0
+totalBet: 0.5
+
+2. result:1.11
+Balance: 122.09
+Last bet: 0
+Next bet: 0
+totalBet: 0.5
+
+3. result:10.24
+Balance: 122.09
+Last bet: 0
+Next bet: 0
+totalBet: 0.5
+
+Number of session: 11
+
+1. result:3.41
+Balance: 130.09
+Last bet: 0
+Next bet: 0
+totalBet: 0.5
+
